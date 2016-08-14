@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "160813_Winform_reach_to_same _value", "160813_Winform_reach_to_same _value\160813_Winform_reach_to_same _value.csproj", "{927CE067-F73A-4B3A-B8E9-B02E68B502CD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F9B00444-CA08-48D9-B2B6-5DE2EA039231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927CE067-F73A-4B3A-B8E9-B02E68B502CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927CE067-F73A-4B3A-B8E9-B02E68B502CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927CE067-F73A-4B3A-B8E9-B02E68B502CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927CE067-F73A-4B3A-B8E9-B02E68B502CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B00444-CA08-48D9-B2B6-5DE2EA039231}.Debug|Any CPU.ActiveCfg = Debug
+		{F9B00444-CA08-48D9-B2B6-5DE2EA039231}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
